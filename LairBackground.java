@@ -1,7 +1,6 @@
 /*
 Megan Holmes
 Krasteva
-   Date: xxxx
    This class is NOT a Thread!!!  There are no moving objects
 
 */
