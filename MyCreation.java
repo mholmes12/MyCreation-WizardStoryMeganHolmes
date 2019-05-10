@@ -1,14 +1,7 @@
 /*
-   Name: xxx
-   Teacher: Ms. Dyke
-   Date: xxxx
-   Assignment: Simple thread example.  MyCreation.java runs the other classes.
-   DO NOT put any draw cmds etc in this file!!!
-   NOTE:  each class should be organized into several methods
-   which are then executed by the run() method
-   The fairyEnter class demonstrates an OVERLOADED constructor which enables the programmer to create only 1 class but
-   alter it in many ways.
-
+   Name: Megan Holmes
+   Teacher: Ms. Krasteva
+   Date: 2018
 */
 
 // The "MyCreation" class.
