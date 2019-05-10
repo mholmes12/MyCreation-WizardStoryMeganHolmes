@@ -1,7 +1,7 @@
 /*
-   Name: xxx
-   Teacher: Ms. Dyke
-   Date: xxxx
+ Megan Holmes
+ Krasteva
+ 2018
 This class is has 3 overloaded constructors!!!
 The basic constructor creates a fairy in a specific predetermined location.
 The 2nd constructor allows a parameter pass to change the fairy color.
